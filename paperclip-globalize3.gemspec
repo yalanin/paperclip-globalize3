@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'activerecord', ['>= 4.2', '< 7.0']
   spec.add_dependency 'globalize', ['>= 5.3.0', '< 6.1']
-  spec.add_dependency 'kt-paperclip', ['>= 5.3', '< 6.2.0']
+  spec.add_dependency 'kt-paperclip', ['>= 5.3', '< 8.0']
 
   spec.add_development_dependency 'appraisal', '~> 2.2'
   spec.add_development_dependency 'bundler', ['>= 1.16.6', '< 2.0.1']
